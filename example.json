@@ -1,7 +1,7 @@
 [
     {
         "headline": "ຜູ້ບໍລິຫານ",
-        "wallpaper": "./img/Wallapper.png",
+        "wallpaper": "https://raw.githubusercontent.com/apple122/RES-API/API/img/Wallapper.png",
         "context": [
             {
                 "img": "./img/Chairman.png",
@@ -44,7 +44,7 @@
                 "status": "Dev"
             },
             {
-                "img": "./img/silivanxay.png",
+                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/img/Apple.png",
                 "name": "Apple Phomsungcan",
                 "title": "Junior Computer Scientist",
                 "profile": "ມີຄວາມຄິດສ້າງສັນ ແລະ ເປັນມືອາຊີບທາງດ້ານພາສາ : NodeJS, ReactJS, NextJS, React Native, TailwindCSS",

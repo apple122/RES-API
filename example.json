@@ -4,7 +4,7 @@
         "wallpaper": "https://raw.githubusercontent.com/apple122/RES-API/API/img/Wallapper.png",
         "context": [
             {
-                "img": "./img/Chairman.png",
+                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/img/Chairman.png",
                 "name": "Phaiakone Chanthamounty",
                 "title": "Acting Chairman (Advisor)",
                 "profile": "ຈົບການສຶກສາທາງດ້ານກົດໜາຍຈາກຣັດເຊຍ. ຜູ້ປຶກສາ, ວາງວິໄສທັດ ແລະ ຍຸດທະສາດ",
@@ -14,7 +14,7 @@
                 "status": "Chairman"
             },
             {
-                "img": "./img/silivanxay.png",
+                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/img/silivanxay.png",
                 "name": "Dr. Silivanxay Phetsouvanh",
                 "title": "Acting CEO/CTO (Advisor)",
                 "profile": "ຜູ້ຊ່ຽວຊານຈາກສິງກະໂປ ແລະ ເປັນທີປຶກສາຂອງບໍລິສັດ, ຊີ້ນຳທີມໃຫ້ເຮັດວຽກຢ່າງມືອາຊິບ",
@@ -24,7 +24,7 @@
                 "status": "Advisor"
             },
             {
-                "img": "./img/silivanxay.png",
+                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/img/Thavisouk%20.png",
                 "name": "Thavisouk Minalavong",
                 "title": "Senior Software Developer",
                 "profile": "ມີຄວາມອົດທົນໃນການແກ້ໄຂບັນຫາ ແລະ ເປັນມືອາຊີບທາງດ້ານພາສາ : Python, NodeJS, ReactJS, NextJS, TypeScript, Javascript",
@@ -34,7 +34,7 @@
                 "status": "Dev"
             },
             {
-                "img": "./img/silivanxay.png",
+                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/img/Med.png",
                 "name": "Med Saignaleuth",
                 "title": "Junior Computer Scientist",
                 "profile": "ມີຄວາມລະອຽດໃນໜ້າທີ ແລະ ເປັນມືອາຊີບທາງດ້ານພາສາ : Python, NodeJS, ReactJS, NextJS, React Native, Javascript, UX/UI",

@@ -1,10 +1,10 @@
 [
     {
         "headline": "ຜູ້ບໍລິຫານ",
-        "wallpaper": "https://raw.githubusercontent.com/apple122/RES-API/API/img/Wallapper.png",
+        "wallpaper": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/Wallapper.png",
         "context": [
             {
-                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/img/Chairman.png",
+                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/Chairman.png",
                 "name": "Phaiakone Chanthamounty",
                 "title": "Acting Chairman (Advisor)",
                 "profile": "ຈົບການສຶກສາທາງດ້ານກົດໜາຍຈາກຣັດເຊຍ. ຜູ້ປຶກສາ, ວາງວິໄສທັດ ແລະ ຍຸດທະສາດ",
@@ -14,7 +14,7 @@
                 "status": "Chairman"
             },
             {
-                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/img/silivanxay.png",
+                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/silivanxay.png",
                 "name": "Dr. Silivanxay Phetsouvanh",
                 "title": "Acting CEO/CTO (Advisor)",
                 "profile": "ຜູ້ຊ່ຽວຊານຈາກສິງກະໂປ ແລະ ເປັນທີປຶກສາຂອງບໍລິສັດ, ຊີ້ນຳທີມໃຫ້ເຮັດວຽກຢ່າງມືອາຊິບ",
@@ -24,7 +24,7 @@
                 "status": "Advisor"
             },
             {
-                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/img/Thavisouk%20.png",
+                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/Thavisouk%20.png",
                 "name": "Thavisouk Minalavong",
                 "title": "Senior Data Analst",
                 "profile": "ມີຄວາມອົດທົນໃນການແກ້ໄຂບັນຫາ ແລະ ເປັນມືອາຊີບທາງດ້ານພາສາ : Python, NodeJS, ReactJS, NextJS, TypeScript, Javascript",
@@ -34,7 +34,7 @@
                 "status": "Dev"
             },
             {
-                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/img/Med.png",
+                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/Med.png",
                 "name": "Med Saignaleuth",
                 "title": "Senior Computer Scientist",
                 "profile": "ມີຄວາມລະອຽດໃນໜ້າທີ ແລະ ເປັນມືອາຊີບທາງດ້ານພາສາ : Python, NodeJS, ReactJS, NextJS, React Native, Javascript, UX/UI",
@@ -44,7 +44,7 @@
                 "status": "Dev"
             },
             {
-                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/img/Apple.png",
+                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/Apple.png",
                 "name": "Apple Phomsungcan",
                 "title": "Senior Computer Scientist",
                 "profile": "ມີຄວາມຄິດສ້າງສັນ ແລະ ເປັນມືອາຊີບທາງດ້ານພາສາ : NodeJS, ReactJS, NextJS, React Native, TailwindCSS",
@@ -58,32 +58,32 @@
     {
         "context": [
             {
-                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/img/technical-support.png",
+                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-performance/technical-support.png",
                 "title": "ພັດທະນາໂມບາຍແອັບພຣິເຄຊັ່ນ",
                 "text": "ພວກເຮົາພັດທະນາກ່ຽວກັບຫານຂຽນໂປຣແກຣມໃນຮູບແບບຂອງ SaaS ( Software as a Service ) ເປັນການໃຫ້ບໍລິການໃນດ້ານຊອບແວ ຜ່ານລະບົບ Cloud ຊວຍໃຫ້ເຮົາເຂົ້າເຖິງໂປຣແກຣມຕ່າງໆໄດ້ທຸກທີ່ທຸກເວລາຜ່ານອີນເຕີເນັດ"
             },
             {
-                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/img/technical-support.png",
+                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-performance/technical-support.png",
                 "title": "ພັດທະນາເວັບໄຊທ໌",
                 "text": "ພວກເຮົາພັດທະນາກ່ຽວກັບຫານຂຽນໂປຣແກຣມໃນຮູບແບບຂອງ SaaS ( Software as a Service ) ເປັນການໃຫ້ບໍລິການໃນດ້ານຊອບແວ ຜ່ານລະບົບ Cloud ຊວຍໃຫ້ເຮົາເຂົ້າເຖິງໂປຣແກຣມຕ່າງໆໄດ້ທຸກທີ່ທຸກເວລາຜ່ານອີນເຕີເນັດ"
             },
             {
-                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/img/technical-support.png",
+                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-performance/technical-support.png",
                 "title": "ພັດທະນາຊອບແວ ບໍລິຫານຊັບພະຍາກອນມະນຸດ",
                 "text": "ພວກເຮົາພັດທະນາກ່ຽວກັບຫານຂຽນໂປຣແກຣມໃນຮູບແບບຂອງ SaaS ( Software as a Service ) ເປັນການໃຫ້ບໍລິການໃນດ້ານຊອບແວ ຜ່ານລະບົບ Cloud ຊວຍໃຫ້ເຮົາເຂົ້າເຖິງໂປຣແກຣມຕ່າງໆໄດ້ທຸກທີ່ທຸກເວລາຜ່ານອີນເຕີເນັດ"
             },
             {
-                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/img/technical-support.png",
+                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-performance/technical-support.png",
                 "title": "ພັດທະນາຊອບແວ ໂຮງໝໍ-ຄຣີນິກ",
                 "text": "ພວກເຮົາພັດທະນາກ່ຽວກັບຫານຂຽນໂປຣແກຣມໃນຮູບແບບຂອງ SaaS ( Software as a Service ) ເປັນການໃຫ້ບໍລິການໃນດ້ານຊອບແວ ຜ່ານລະບົບ Cloud ຊວຍໃຫ້ເຮົາເຂົ້າເຖິງໂປຣແກຣມຕ່າງໆໄດ້ທຸກທີ່ທຸກເວລາຜ່ານອີນເຕີເນັດ"
             },
             {
-                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/img/technical-support.png",
+                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-performance/technical-support.png",
                 "title": "ພັດທະນາຊອບແອ ຮ້ານຄ້າສະດວກຊື້",
                 "text": "ພວກເຮົາພັດທະນາກ່ຽວກັບຫານຂຽນໂປຣແກຣມໃນຮູບແບບຂອງ SaaS ( Software as a Service ) ເປັນການໃຫ້ບໍລິການໃນດ້ານຊອບແວ ຜ່ານລະບົບ Cloud ຊວຍໃຫ້ເຮົາເຂົ້າເຖິງໂປຣແກຣມຕ່າງໆໄດ້ທຸກທີ່ທຸກເວລາຜ່ານອີນເຕີເນັດ"
             },
             {
-                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/img/technical-support.png",
+                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-performance/technical-support.png",
                 "title": "ພັດທະນາລະບົບ ທຸລະກຳທາງການເງີນ",
                 "text": "ພວກເຮົາພັດທະນາກ່ຽວກັບຫານຂຽນໂປຣແກຣມໃນຮູບແບບຂອງ SaaS ( Software as a Service ) ເປັນການໃຫ້ບໍລິການໃນດ້ານຊອບແວ ຜ່ານລະບົບ Cloud ຊວຍໃຫ້ເຮົາເຂົ້າເຖິງໂປຣແກຣມຕ່າງໆໄດ້ທຸກທີ່ທຸກເວລາຜ່ານອີນເຕີເນັດ"
             }
@@ -92,7 +92,7 @@
     {
         "context": [
             {
-                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/img/technical-support.png",
+                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-News/%E0%BA%82%E0%BB%8D%E0%BA%94%E0%BA%B5.jpg",
                 "title": [
                     {
                         "text": "ບໍລິສັດ Bestech SaaS Consultancy ຂອງພວກເຮົາ ເປີດຮັບສະໝັກໝູ່ຮ່ວມງານ ແລະ ເປີດໂອກາດໃຫ້ທຸກຄົນໄດ້ສະແດງຄວາມຮູ້, ຄວາມສາມາດຂອງຕົວເອງອອກສູ່ສັງຄົມ ແລະ ພ້ອມກັນພັດທະນາວົງການ IT ໃຫ້ກ້າວໜ້າ ຜູ້ທີ່ສົນໃຈສາມາດສະຫມັກ ແລະ ປະກອບຟອມອອນລາຍໄດ້ຕາມລິ້ງດ້ານລຸ່ມນີ້:"
@@ -112,7 +112,7 @@
                 "status": true
             },
             {
-                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/img/technical-support.png",
+                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-News/%E0%BB%9C%E0%BB%89%E0%BA%B2%E0%BA%9B%E0%BA%BB%E0%BA%811.png",
                 "title": [
                     {
                         "text": "ພວກເຮົາເປິດຮັບສະໝັກໝູ່ຮ່ວມງານ ເພືອເປັນສ່ວນໜືງກັບພວກເຮົາໃນການພັດທະນາວົງການ SaaS ຂອງປະເທດເຮົາໃຫ້ດີຂື້ນ"

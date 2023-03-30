@@ -1,0 +1,58 @@
+[
+    {
+        "headline": "ຜູ້ບໍລິຫານ",
+        "wallpaper": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/Wallapper.png",
+        "context": [
+            {
+                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/Chairman.png",
+                "name": "Phaiakone Chanthamounty",
+                "title": "Acting Chairman (Advisor)",
+                "profile": "ຈົບການສຶກສາທາງດ້ານກົດໜາຍຈາກຣັດເຊຍ. ຜູ້ປຶກສາ, ວາງວິໄສທັດ ແລະ ຍຸດທະສາດ",
+                "WA": "2054621999",
+                "FB": "#",
+                "IG": "#",
+                "status": "Chairman"
+            },
+            {
+                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/silivanxay.png",
+                "name": "Dr. Silivanxay Phetsouvanh",
+                "title": "Acting CEO/CTO (Advisor)",
+                "profile": "ຜູ້ຊ່ຽວຊານຈາກສິງກະໂປ ແລະ ເປັນທີປຶກສາຂອງບໍລິສັດ, ຊີ້ນຳທີມໃຫ້ເຮັດວຽກຢ່າງມືອາຊິບ",
+                "WA": "2056395659",
+                "FB": "#",
+                "IG": "#",
+                "status": "Advisor"
+            },
+            {
+                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/Thavisouk%20.png",
+                "name": "Thavisouk Minalavong",
+                "title": "Senior Data Analst",
+                "profile": "ມີຄວາມອົດທົນໃນການແກ້ໄຂບັນຫາ ແລະ ເປັນມືອາຊີບທາງດ້ານພາສາ : Python, NodeJS, ReactJS, NextJS, TypeScript, Javascript",
+                "WA": "#",
+                "FB": "#",
+                "IG": "#",
+                "status": "Dev"
+            },
+            {
+                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/Med.png",
+                "name": "Med Saignaleuth",
+                "title": "Senior Computer Scientist",
+                "profile": "ມີຄວາມລະອຽດໃນໜ້າທີ ແລະ ເປັນມືອາຊີບທາງດ້ານພາສາ : Python, NodeJS, ReactJS, NextJS, React Native, Javascript, UX/UI",
+                "WA": "#",
+                "FB": "#",
+                "IG": "#",
+                "status": "Dev"
+            },
+            {
+                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/Apple.png",
+                "name": "Apple Phomsungcan",
+                "title": "Senior Computer Scientist",
+                "profile": "ມີຄວາມຄິດສ້າງສັນ ແລະ ເປັນມືອາຊີບທາງດ້ານພາສາ : NodeJS, ReactJS, NextJS, React Native, TailwindCSS",
+                "WA": "2095188702",
+                "FB": "https://web.facebook.com/profile.php?id=100012618940519",
+                "IG": "#",
+                "status": "Dev"
+            }
+        ]
+    }
+]

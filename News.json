@@ -82,12 +82,37 @@
             },
             {
                 "text": "ສະຖານທີ່: ບ້ານດອນກອຍ ເມືອງສີສັດຕະນາກ ແຂວງ ນະຄອນຫຼວງວຽງຈັນ. ຕັ້ງຢູ່ໃນຕຶກຫ້ອງການກຸ່ມບໍລິສັດສົມໃຈນຶກ"
+            }
+        ],
+        "status": true
+    },
+    {
+        "img": [
+            {
+                "post": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-News/POST-1.png"
+            },
+            {
+                "post": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-News/POST-2.jpg"
+            },
+            {
+                "post": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-News/POST-3.jpg"
+            },
+            {
+                "post": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-News/POST-4.jpg"
+            }
+        ],
+        "title": [
+            {
+                "text": "ແນະນຳ Input Type ທັ້ງໝົດໃນ HTML"
             },
             {
                 "email": "bestech.la"
             },
             {
                 "phone": "+856 2092888367"
+            },
+            {
+                "text": "ສະຖານທີ່: ບ້ານດອນກອຍ ເມືອງສີສັດຕະນາກ ແຂວງ ນະຄອນຫຼວງວຽງຈັນ. ຕັ້ງຢູ່ໃນຕຶກຫ້ອງການກຸ່ມບໍລິສັດສົມໃຈນຶກ"
             }
         ],
         "status": true

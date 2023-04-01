@@ -58,13 +58,13 @@
     {
         "img": [
             {
-                "post": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-News/%E0%BA%82%E0%BB%8D%E0%BA%94%E0%BA%B5.jpg"
+                "post": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-News/POST-01.png"
             },
             {
-                "post": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-News/%E0%BA%82%E0%BB%8D%E0%BA%94%E0%BA%B5.jpg"
+                "post": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-News/POS-04.png"
             },
             {
-                "post": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-News/%E0%BA%82%E0%BB%8D%E0%BA%94%E0%BA%B5.jpg"
+                "post": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-News/POS-05.png"
             }
         ],
         "title": [
@@ -72,10 +72,13 @@
                 "text": "ບໍລິສັດ Bestech SaaS Consultancy ຂອງພວກເຮົາ ເປີດຮັບສະໝັກໝູ່ຮ່ວມງານ ແລະ ເປີດໂອກາດໃຫ້ທຸກຄົນໄດ້ສະແດງຄວາມຮູ້, ຄວາມສາມາດຂອງຕົວເອງອອກສູ່ສັງຄົມ ແລະ ພ້ອມກັນພັດທະນາວົງການ IT ໃຫ້ກ້າວໜ້າ ຜູ້ທີ່ສົນໃຈສາມາດສະຫມັກ ແລະ ປະກອບຟອມອອນລາຍໄດ້ຕາມລິ້ງດ້ານລຸ່ມນີ້:"
             },
             {
-                "text": "Email: info@bestech.la"
+                "url": "https://superdesigner.co/"
             },
             {
-                "text": "Tel: +8562092888367"
+                "email": "bestech.la"
+            },
+            {
+                "phone": "+856 2092888367"
             },
             {
                 "text": "ສະຖານທີ່: ບ້ານດອນກອຍ ເມືອງສີສັດຕະນາກ ແຂວງ ນະຄອນຫຼວງວຽງຈັນ. ຕັ້ງຢູ່ໃນຕຶກຫ້ອງການກຸ່ມບໍລິສັດສົມໃຈນຶກ"

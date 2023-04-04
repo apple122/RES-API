@@ -185,6 +185,44 @@
                         "text": ""
                     }
                 ]
+            },
+            {
+                "Header": "ສະພາບຝຸ່ນ pm 2,5 ໃນ​ ສປປ​ ລາວ ເວລາ​ 7 ໂມງເຊົ້າ ຂອງວັນທີ 4 ເມສາ​ 2023 ໂກຍທົ່ວໄປຢູ່ແຂວງພາກເໜືອແມ່ນເກີນເກນມາດຕະຖານ ຫລື​ ມີຜົນກະທົບຕຊ່ສຸຂະພາບເລັກໜ້ອຍຫາປານກາງ",
+                "Currendate": "05-04-2023 - 12:14 PM",
+                "Shares": "https://www.facebook.com/BesTech.la",
+                "img": [
+                    {
+                        "post": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-News/PM-2.jpg"
+                    },
+                    {
+                        "post": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-News/PM-1.jpg"
+                    },
+                    {
+                        "post": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-News/PM-3.jpg"
+                    },
+                    {
+                        "post": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-News/PM-4.jpg"
+                    }
+                ],
+                "Content": [
+                    {
+                        "text": "ສະພາບຝຸ່ນ pm 2,5 ໃນ​ ສປປ​ ລາວ ເວລາ​ 7 ໂມງເຊົ້າ ຂອງວັນທີ 4 ເມສາ​ 2023 ໂກຍທົ່ວໄປຢູ່ແຂວງພາກເໜືອແມ່ນເກີນເກນມາດຕະຖານ ຫລື​ ມີຜົນກະທົບຕຊ່ສຸຂະພາບເລັກໜ້ອຍຫາປານກາງ"
+                    }
+                ],
+                "title": [
+                    {
+                        "url": ""
+                    },
+                    {
+                        "email": ""
+                    },
+                    {
+                        "phone": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
             }
         ]
     }
